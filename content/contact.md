@@ -2,14 +2,14 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [arifamiruddinsadiran@gmail.com](mailto:arifamiruddinsadiran@gmail.com)
+* Phone: [+60-1126144905](tel:+60-1126144905)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 
 >
 > London
 >
