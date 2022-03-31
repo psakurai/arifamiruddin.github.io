@@ -12,9 +12,9 @@ title = "Contact"
 
 ## Mailing Address
 
-> Blok F-03-03 
-> Jalan Emas 33
-> Bandar Sungai Emas
-> 42700, Banting, Selangor
+> Blok F-03-03, 
+> Jalan Emas 33,
+> Bandar Sungai Emas,
+> 42700, Banting, Selangor,
 > Malaysia.
 ---
