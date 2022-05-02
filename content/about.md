@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-Arif Amiruddin is currently a student in Universiti Teknologi Malaysia, Johor Bahru, Malaysia. He is majoring in Computer Networking and Security.
+Arif Amiruddin is currently a student in **Universiti Teknologi Malaysia, Johor Bahru, Malaysia**. **He is majoring in Computer Networking and Security**.
 
 Arif found his passion for technology in the year 2013, when he first got his own laptop. 
 
@@ -18,7 +18,7 @@ Great appreciation and thanks to my teacher, lecturer, friend and my family for 
 
 ---
 
-> help
+> Now seeking for an intership, starting on 9 October 2022
 
 ## References
 
