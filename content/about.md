@@ -6,15 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="{{ .Site.BaseURL }}/static/avatar.jpg" alt="Arif Amiruddin Profile Pic">}}
 
-Arif Amiruddin is currently a student in **Universiti Teknologi Malaysia, Johor Bahru, Malaysia**. **He is majoring in Computer Networking and Security**.
+Arif Amiruddin is a recent graduate of Computer Networking and Security from Universiti Teknologi Malaysia, Johor Bahru, Malaysia. He is currently undergoing a Java training program sponsored by Yayasan Peneraju.
 
-Arif found his passion for technology in the year 2013, when he first got his own laptop. 
+He found his passion for technology in 2013, when he first got his own laptop. Prior to entering university, he never saw himself as a future tech worker. However, his love of mathematics and problem-solving drew him to the field. He is inspired by the thought of creating innovative solutions that can make a positive impact on the world.
 
-Prior to entering his education journey at Universiti Teknologi Malaysia, he never saw himself as one day becoming a future tech worker. Arif loved mathematics as a child and has developed those skills as he got older in understanding algorithms and data structure. The thought of creating amazing works keeps inspiring me to keep going each day.
+In his free time, Arif enjoys spending time with his family and friends, watching anime, and scrolling through Reddit.
 
-When Arif is not working, he is spending time with his family, friends, watching anime and scrolling through reddit.
-
-Great appreciation and thanks to my teacher, lecturer, friend and my family for all the support I have gotten along the year of this amazing journey.
+He is grateful for the support of his teachers, lecturers, friends, and family during his amazing journey.
 
 ---
 
