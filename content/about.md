@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="../static/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="{{ .Site.BaseURL }}/static/avatar.jpg" alt="Arif Amiruddin Profile Pic">}}
 
 Arif Amiruddin is currently a student in **Universiti Teknologi Malaysia, Johor Bahru, Malaysia**. **He is majoring in Computer Networking and Security**.
 
