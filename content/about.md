@@ -18,7 +18,7 @@ He is grateful for the support of his teachers, lecturers, friends, and family d
 
 ---
 
-> Now seeking for an intership, starting on 2 October 2022
+> Now looking for a position as software engineer, starting on November 2023
 
 ## References
 
