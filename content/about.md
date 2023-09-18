@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-<img src="{{ .Params.avatar }}" alt="Arif Amiruddin Profile Pic">
+{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
 Arif Amiruddin is a recent graduate of Computer Networking and Security from Universiti Teknologi Malaysia, Johor Bahru, Malaysia. He is currently undergoing a Java training program sponsored by Yayasan Peneraju.
 
