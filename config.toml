@@ -12,6 +12,7 @@ googleAnalytics = ""  # add your tracking id
   description = "A simple resume website for Arif Amiruddin."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
+  avatar = "/static/avatar.jpg"
  # [params.footer]
   #  text = "researcher"
   #  url = "https://github.com/ojroques/hugo-researcher"
