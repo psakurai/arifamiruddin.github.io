@@ -7,6 +7,8 @@ title = "About"
 ![Arif Amiruddin Profile Pic]({{ .Site.BaseURL }}/static/avatar.jpg)
 {{< img src="{{ .Site.BaseURL }}/static/avatar.jpg" alt="Arif Amiruddin Profile Pic">}}
 
+![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner-2.png)
+
 
 Arif Amiruddin is a recent graduate of Computer Networking and Security from Universiti Teknologi Malaysia, Johor Bahru, Malaysia. He is currently undergoing a Java training program sponsored by Yayasan Peneraju.
 
