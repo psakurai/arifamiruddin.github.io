@@ -5,11 +5,11 @@ title = "Project"
 ## Project
 
 
-Project Name    | Award | Description
-----------------|-------|--------
-   **Garden**   | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-**Jaspore Marine Malaysia** | Satellite | Won Best Actor miniseries or television film
-**CrowdFinder** | BAFTA | Nominated for Best Leading Actor for Sherlock
+Project Name    | Category | Tech Stack | Description
+----------------------------|-------|-------|--------
+   **Garden**   | Mobile  | |Won Outstanding Lead Actor in a miniseries or a movie
+**Jaspore Marine Malaysia** | Web | | Won Best Actor miniseries or television film
+**CrowdFinder** | BAFTA | Mobile |Nominated for Best Leading Actor for Sherlock
 
 
 
