@@ -22,5 +22,6 @@ Great appreciation and thanks to my teacher, lecturer, friend and my family for 
 
 ## References
 
-* Dr. Haswadi bin Hasan: Senior Lecturer, Faculty of Computing, Universiti Teknologi Malaysia. 
+* Dr. Haswadi bin Hasan: Senior Lecturer, Faculty of Computing, Universiti Teknologi Malaysia.
+* Nor Aidatul Hazirah Binti Mohd Rosli: Software Engineer.
 ---
