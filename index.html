@@ -144,7 +144,7 @@
 							adapt to new technologies and environments with excellent
 							communication and teamwork skills.</p>
 						<p>
-							<a href="pdf/Arif Amiruddin Bin Sadiran-Resume.pdf" target="_blank"
+							<a href="assets/pdf/Arif Amiruddin Bin Sadiran-Resume.pdf" target="_blank"
 								class="readmore">Download my Resume</a>
 						</p>
 					</div>
@@ -218,7 +218,7 @@
 				<div class="col-md-12 col-lg-6 text-start text-lg-end" data-aos="fade-up" data-aos-delay="100">
 				  <div id="filters" class="filters">
 					<a href="#" data-filter="*" class="active">All</a>
-					assets/<a href="#" data-filter=".web">Web</a>
+					<a href="#" data-filter=".web">Web</a>
 					<a href="#" data-filter=".mobile">Mobile</a>
 					<a href="#" data-filter=".design">Design</a>
 				  </div>
@@ -234,8 +234,8 @@
 					<img class="img-fluid" src="assets/img/img_1.jpg">
 				  </a>
 				</div>
-				<div class="item mobile col-sm-6 col-md-4 col-lg-4 mb-4">
-				  <a href="" class="item-wrap fancybox">
+				<div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+				  <a href="#works" onclick="alert('Hi, this is the portfolio website!')" class="item-wrap fancybox">
 					<div class="work-info">
 					  <h3>Portfolio 🍓</h3>
 					  <span>Web</span>
@@ -244,7 +244,7 @@
 				  </a>
 				</div>
 				<div class="item mobile col-sm-6 col-md-4 col-lg-4 mb-4">
-				  <a href="" class="item-wrap fancybox">
+				  <a href="works/garden.html" class="item-wrap fancybox">
 					<div class="work-info">
 					  <h3>Jogging Tracker (Garden)</h3>
 					  <span>Mobile</span>
@@ -252,6 +252,15 @@
 					<img class="img-fluid" src="assets/img/img_2.jpg">
 				  </a>
 				</div>
+				<div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+					<a href="works/jaspore-my.html" class="item-wrap fancybox">
+					  <div class="work-info">
+						<h3>Jaspore Marine Malaysia (Corporate Website)</h3>
+						<span>Web</span>
+					  </div>
+					  <img class="img-fluid" src="assets/img/img_1.jpg">
+					</a>
+				  </div>
 			  </div>
 			</div>
 		  </section><!-- End  Works Section -->
@@ -341,7 +350,7 @@
 								class="form-control" name="_subject" id="_subject" required>
 						</div>
 						<div class="col-md-12 form-group">
-							<label for="name">Message</label>
+							<label for="message">Message</label>
 							<textarea class="form-control" name="message" id="message" cols="30" rows="10"
 								required></textarea>
 						</div>
@@ -382,9 +391,9 @@
 </section>
 
 <script>
-const nameInputField = document.querySelector('input[name="name"]');
-const emailInputField = document.querySelector('input[name="email"]');
-const subjectInputField = document.querySelector('input[name="subject"]');
+const nameInputField = document.querySelector('input[name="full-name"]');
+const emailInputField = document.querySelector('input[name="_replyto"]');
+const subjectInputField = document.querySelector('input[name="_subject"]');
 const messageInputField = document.querySelector('textarea[name="message"]');
 
 nameInputField.value = '';
